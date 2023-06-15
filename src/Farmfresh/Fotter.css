@@ -1,0 +1,49 @@
+.fott{
+    padding-top: 90px;
+}
+.fotter{
+    width: 100%;
+    float: left;
+    background-color: #252525;
+    height: auto;
+   
+}
+.fot{
+    font-size: 24px;
+    color: #ffffff;
+    padding-top: 60px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+.ul{
+    color: #b1b6c2;
+    text-decoration: none; 
+    font-size: 16px; 
+}
+.para{
+    color: #b1b6c2; 
+    font-size: 16px;
+}
+.sub{
+    width: 100%;
+    float: left;
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #0c426e;
+    text-align: center;
+    padding: 8px 0px;
+    text-transform: uppercase;
+    text-decoration: none;
+
+}
+.enter{
+    width: 100%;
+    float: left;
+    font-size: 18px;
+    color: #162448;
+    background-color: #ffffff;
+    padding: 8px 10px;
+    margin-top: 10px;
+    border: 0px;
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+
+.sec{
+    padding-top: 90px;
+    text-align: center;
+}
+.sec1{
+    text-align: center;
+    padding-top: 20px;
+}
+.c{
+    padding-top: 30px;
+}
+.img{
+    width: 100%;
+    float: left;
+    height: auto;
+    position: relative;
+    max-width: 100%;
+}

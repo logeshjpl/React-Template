@@ -1,0 +1,38 @@
+.section{
+width: 100%;
+float: left;
+font-weight: bold;
+font-size: 76px;
+color: #060606;
+line-height: 90px;
+}
+.banner{ 
+    width: 100%;
+    float: left;
+   
+    background-color: #fafafa;
+    height: auto;
+} 
+.img{
+    height: 400px;
+}
+.get{
+    color: #fafafa;
+    background-color: #0c426e;
+    float: left; 
+    padding: 8px 10px;
+    text-align: center;
+    font-size: 18px;
+}
+.conduct{
+    color: #fafafa;
+    background-color: black;
+    float: left;
+    padding: 8px 10px;
+    text-align: center;
+    font-size: 18px;
+}
+.one{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}

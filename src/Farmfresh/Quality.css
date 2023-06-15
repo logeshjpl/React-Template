@@ -1,0 +1,25 @@
+.pad{
+    padding-top: 90px;
+    text-align: center;
+    padding-bottom: 90px;
+}
+.img1{
+   
+    height: auto;
+    text-align: center; 
+    color: #ffffff;;
+}
+.imga{
+    background-image: url(./img-4.png);
+   padding-top: 90px;
+   height: 350px;
+}
+.geta{
+    font-size: 18px;
+    color: #0b0b0b;
+    margin-top: 50px;
+    padding: 8px 10px;
+    background-color: aliceblue;
+    float: left;
+    text-align: center;
+}
